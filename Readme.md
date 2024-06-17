@@ -1,4 +1,4 @@
-# Website
+# WEBSITE
 
 ## Description
 
@@ -21,7 +21,8 @@ This project is a responsive website created using HTML, CSS, and Bootstrap. It 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bootstrap-website.git
-   Open the index.html file in your browser to view the website.
+   ```
+2. Open the index.html file in your browser to view the website.
    
 ## GIF
 
