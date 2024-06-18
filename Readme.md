@@ -9,7 +9,7 @@ This project is a responsive website created using HTML, CSS, and Bootstrap. It 
 - HTML
 - CSS
 - Bootstrap
-- 
+  
 ## Features
 
 - **Responsive Design:** The website is fully responsive and works well on all devices.
@@ -20,7 +20,7 @@ This project is a responsive website created using HTML, CSS, and Bootstrap. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bootstrap-website.git
+   git clone https://github.com/KamilErdogmus/BS-Udemig.git
    ```
 2. Open the index.html file in your browser to view the website.
    
